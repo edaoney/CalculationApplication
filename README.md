@@ -1,4 +1,4 @@
-Calculation Application
+
 -Bu proje, temel matematiksel işlemleri yapabilen C# tabanlı bir konsol uygulamasıdır. Kullanıcıdan alınan iki sayı üzerinde toplama, çıkarma, çarpma ve bölme işlemleri yapılabilir.
 
 Özellikler
